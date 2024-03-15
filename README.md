@@ -1,5 +1,5 @@
 ### İnstalitons 
-1. https://github.com/celal-turker/mac_changer.git
+1. git clone https://github.com/celal-turker/mac_changer.git
 2. cd macchanger
 
    
